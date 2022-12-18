@@ -1,3 +1,5 @@
+https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.PostgreSQL.html
+
 
 # ---------------------------------------------
 ON AURORA POSTgres
